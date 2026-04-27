@@ -46,7 +46,9 @@ Based on the modeling results, the highest predicted risk for a high-cost vehicl
 To reproduce this analysis:
 1. Colne out GitHub repository.
 2. Ensure you have Python 3 installed with the following packages: `pandas`, `numpy`, `matplotlib`, and `statsmodels`.
-3. Run the notebooks in the following order:
+3. Download datasets `accident.csv`, `vehicle.csv`, `person.csv` and `weather.csv` from this Google drive folder: https://drive.google.com/drive/folders/19AI6Fysk9rf8hl6819qFHbiXj83Vf2ZS.
+4. Run the notebooks in the following order:
    * `data_analysis.ipynb`
    * `initial_model.ipynb`
    * `final_model.ipynb`
+   * `final_analysis.ipynb`
